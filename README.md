@@ -35,7 +35,7 @@ It automates the tedious process of downloading clips one by one, organizes them
 ### 1. Get the Base URL
 To use this script, you need the "Base URL" of the video files.
 1.  Log in to QwikCut and open your game.
-2.  Click on the **first clip** (Clip #1) to open the player.
+2.  Click on the download icon of the **first clip** (Clip #1) to open the player.
 3.  Right-click the video (or look at the browser URL if it opens in a new tab) and copy the link.
     * *Example Link:* `https://d2htis0rx2m2xo.cloudfront.net/uploads/68b48b97f1899/1.mp4`
 4.  **Remove the `1.mp4`** at the end.
