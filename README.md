@@ -19,7 +19,7 @@ It automates the tedious process of downloading clips one by one, organizes them
 
 ## 🛠️ Installation
 
-1.  **Clone the repository** (or just download the script):
+1.  **Clone the repository** (or just download the ZIP):
     ```bash
     git clone https://github.com/michael-stemmler/qwikcut-downloader.git
     cd qwikcut-downloader
