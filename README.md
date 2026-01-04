@@ -70,7 +70,7 @@ Please ensure you comply with the Terms of Service of the hosting platform. Do n
 Do not share login credentials or copyrighted material publicly.
 
 ## 📄 License
-This project is licensed under the MIT License - see the [LICENSE file](LICENSE) file for details. You are free to modify and distribute this software.
+This project is licensed under the MIT License - see the [LICENSE file](LICENSE) for details. You are free to modify and distribute this software.
 
 
 
