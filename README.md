@@ -67,7 +67,7 @@ Game_Downloads/
 This tool is intended for educational purposes and for personal archiving of team footage by authorized coaches and athletes.
 
 Please ensure you comply with the Terms of Service of the hosting platform. Do not use this tool to download content you do not have the rights to access. The authors of this script are not responsible for any misuse.   
-Do not share login credentials or copyrighted material publicly.
+Do not share copyrighted material publicly.
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE file](LICENSE) for details. You are free to modify and distribute this software.
